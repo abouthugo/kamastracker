@@ -1,7 +1,7 @@
 {
-  "name": "remix-app-template",
+  "name": "kamas-congregata-ui",
   "private": true,
-  "description": "",
+  "description": "A webapp for checking Kama prices",
   "license": "",
   "sideEffects": false,
   "scripts": {
